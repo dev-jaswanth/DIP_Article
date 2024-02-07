@@ -47,7 +47,7 @@ DIP suggests the following:
 
  - Dependency Injection ensures that a class adheres to the Dependency Inversion Principle by allowing high-level components to depend on abstractions rather than concrete implementations.
 
-##  3. DIP in the Context of Inversion of Control (IoC)
+##  3. Understanding  Dependency Inversion Principle in Enhancing Inversion of Control Systems
 ---
 
 The Dependency Inversion Principle (DIP) and Inversion of Control (IoC) are closely related concepts that together contribute to creating flexible, maintainable, and loosely coupled software architectures.
